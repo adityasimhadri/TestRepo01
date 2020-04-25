@@ -3,8 +3,6 @@ public class TestProjectGitWorld {
 	public static void main(String[] args) {
 		// File from GitHub
 		System.out.println("Hello Git World!");
-		System.out.println("Edited this file on GitHub for download testing");
-		System.out.println("Edited this file on Eclipse for upload testing");
 	}
 
 }
